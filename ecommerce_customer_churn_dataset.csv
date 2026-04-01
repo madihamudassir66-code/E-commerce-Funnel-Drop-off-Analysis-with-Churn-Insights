@@ -1,0 +1,7 @@
+Stage,Users,Rate
+Total_Users,50000,null
+Engaged_Users,47803,96%
+Intent_Users,15905,33%
+Converted_Users,42329,266%
+Churned_Users,14450,29%
+Total_Conversion_Rate,null,85%
